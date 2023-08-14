@@ -1,5 +1,5 @@
 # **CRYSTAL LAYLAND, MBA**
-_Risk & Compliance Professional based in Onalaska, Wisconsin_ 🇺🇸 <br>
+_Privacy & Data Protection Professional based in Onalaska, Wisconsin_ 🇺🇸 <br>
 
 [Email](mailto:crystal@crystallayland.com) | [Website](https://www.crystallayland.com) | [LinkedIn](https://www.linkedin.com/in/crystallayland/) | [GitHub](https://github.com/crystallayland) | [Tableau](https://public.tableau.com/app/profile/crystal.layland)
 
