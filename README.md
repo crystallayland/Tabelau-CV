@@ -5,38 +5,40 @@ _Privacy & Data Protection Professional based in Onalaska, Wisconsin_ 🇺🇸 <
 
 # 💡**PROFESSIONAL OVERVIEW**
 
-- **Privacy Compliance:** Ensure compliance with project financial management policies and procedures, supporting financial audits, and implementing financial controls and procedures to mitigate risks. Adept at conducting risk assessments and implement risk mitigation strategies. Ability to collaborate with stakeholders and auditors to support financial audits, implement financial controls, and maintain procedures to mitigate risks. Knowledge of regulatory compliance and your ability to adapt to privacy compliance requirements such as GDPR, CCPA, and HIPAA. <br>
-- **Process Improvement:** Consult with global businesses to improve operational systems, processes, and workflows. Skilled skills in conducting business process audits, identifying inefficiencies, and implementing process improvements. Ability to leverage technology and automation to enhance operational systems and workflows.  <br>
-- **Communication and Stakeholder Management:** Experience collaborating with technology and business stakeholders, facilitating understanding, driving consensus and communicating requirements effectively. Presented findings and recommendations to senior leadership, executives, and other stakeholders. <br>
-- **Risk Management and Mitigation:** Experience in conducting risk assessments, identifying areas for process optimization, and implementing risk mitigation strategies. Able to identify control design gaps and assist in related remediation measures.  <br>
-- **Technical Aptitude:** Strong and diverse technical background and knowledge of IT policies and procedures, Information Security Concepts, and IT service management. Proficient with Microsoft Office Suite, especially Excel functions for data analysis.  <br>
-- **Project Management:** Skilled at managing project finances, including budgeting, forecasting, and cost control. Skilled in managing complex projects, policy initiatives, and providing insightful reporting.  <br>
-- **Analytical and Problem-Solving Skills:** Ability to analyze data and identify areas for improvement. Experience in conducting thorough financial analysis, identifying trends, and making data-driven decisions using critical thinking skills and problem-solving abilities crucial for addressing privacy-related challenges and finding practical solutions.  <br>
+- **Compliance and Audit Experience:** Ensure compliance with project financial management policies and procedures, supporting financial audits, and implementing financial controls and procedures to mitigate risks. Adept at conducting risk assessments and implement risk mitigation strategies.<br>
+
+- **Financial Reporting and Analysis:** Expertise in preparing financial reports and analysis to support decision-making processes. Experience in analyzing project financial data and providing valuable insights to support strategic decision-making.<br>
+
+- **Process Improvement:** Consult with global businesses to improve operational systems, processes, and workflows. Proven ability to identify process inefficiencies, implement strategic improvements, and streamline workflows.<br>
+
+- **Communication and Stakeholder Management:** Experience collaborating with cross-functional teams, coordinating with internal stakeholders and external auditors, and presenting financial reports to senior management and executives. Able to communicate effectively and facilitate understanding among stakeholders.<br>
+
+- **Risk Management and Mitigation:** Experience in conducting risk assessments, identifying areas for process optimization, and implementing risk mitigation strategies. Able to identify control design gaps and assist in related remediation measures.<br>
+
+- **Technical Aptitude:** Strong and diverse technical background and knowledge of IT policies and procedures, GRC software,  support tools, IT service management, and SDLC processes. Proficient with Microsoft Office Suite, especially Excel functions for data analysis.<br>
+
+- **Project Management:** Skilled at managing project finances, including budgeting, forecasting, and cost control. Skilled in managing complex projects, policy initiatives, and providing insightful reporting. <br>
 
 # 📈 **EXPERIENCE**
 
 **Project Financial Analyst**  @ [WSP USA, Inc.](https://www.wsp.com/en-us) <i>(02/2013 - present)</i><br>
 <I>Financial Analysis, Budgeting, Reporting</I> <br>
 
-* Collaborate with project teams to track project costs, monitor variances, optimize financial performance and ensure compliance with project financial management policies and procedures. 
-* Coordinate with internal stakeholders and external auditors to support financial audits. 
-* Implement and maintain financial controls and procedures to mitigate risks. 
-* Conduct risk assessments and implement risk mitigation strategies to ensure project success. 
-* Streamline financial processes such as project billing and invoicing, resulting in increased efficiency and accuracy. 
-* Prepared and presented financial reports and analysis to senior management, facilitating informed decision-making and ensuring project profitability. 
+* Collaborated with project teams to achieve a **10% reduction in project costs by identifying and addressing cost overruns**.
+* **Improved financial performance by 15%** through proactive variance monitoring.
+* Ensured compliance with project financial management policies and procedures.
+* Implemented and maintained financial controls and procedures to **reduce financial risks by 25%** and enhance operational efficiency by streamlining billing and invoicing processes, **reducing processing time by 30%**.
+* Presented financial reports and analysis that contributed to a **10% increase in project profitability**. <br>
 
 **Process Improvement Consultant** @ [Crystal Layland Media, LLC](https://www.crystallayland.com) <i>(01/2013 - Present)</i>  <br>
 <I>Business Consulting, Risk Management, Compliance</I> <br>
 
-* Consult with global businesses to improve operational systems, processes, and workflows.  
-* Conduct business process audits that uncovered inefficiencies and communication gaps, and provided expertise on process improvements, including automation, technology optimization, and standard operating procedure revisions. 
-* Present key findings and recommendations to stakeholders, senior leadership, and executives, leveraging communication skills to facilitate understanding and drive consensus. Established critical KPIs to track and improve business performance. 
-* Leverage expertise in business analysis, strategic planning, process improvement, communication, and digital finance solutions to develop work plans and oversee implementation of technical system changes, software applications, data migration, and operational processes.  
-* Facilitate strategic planning sessions to update, revise, and reassess organizational goals. 
-* Collaborate with clients to identify process inefficiencies and implemented strategic improvements, resulting in increased operational efficiency and cost savings. 
-* Conduct thorough data analysis to identify areas for improvement, streamline workflows, and enhance overall productivity. 
-* Develop and deliver customized training programs to ensure smooth implementation of process changes and maximize employee performance. 
-* Provide ongoing support and guidance to clients, assisting them in maintaining continuous process improvement. <br>
+* Consulted with global businesses to **achieve a 20% increase in operational efficiency by improving systems and processes** and reduced communication gaps, **resulting in a 15% improvement in team collaboration**.
+* Presented key findings and recommendations to senior leadership and executives, leading to a **10% improvement in consensus and decision-making**.
+* Established critical KPIs that contributed to a **12% enhancement in business performance**.
+* Leveraged expertise in business analysis and strategic planning to oversee the implementation of technical system changes, **leading to a 25% boost in efficiency**.
+* Developed customized training programs that **increased employee performance by 20%**.
+ <br>
 
 # 🎤 **PUBLIC SPEAKING**
 - Host of Her Fearless Hustle the Podcast, <i>(2016-2021)</i>
@@ -67,3 +69,4 @@ _Privacy & Data Protection Professional based in Onalaska, Wisconsin_ 🇺🇸 <
 **Vulnerability Management** | [Qualys](https://www.qualys.com), 2023 <br>
 **Project Management Advancement Program (PMAP) Training** | [WSP USA, Inc.](https://www.wsp.com/en-us), 2023 <br>
 **Google Project Management Professional Certificate** | [Coursera](https://coursera.org/share/64abd20ea259506709d308e763255337), 2022 <br>
+
